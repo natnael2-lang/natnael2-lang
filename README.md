@@ -141,23 +141,6 @@ REST APIs · Authentication & RBAC · Payment systems · Microservices · RAG ap
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=natnael2-lang&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&icon_color=06B6D4&title_color=06B6D4" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael2-lang&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=06B6D4&langs_count=8" alt="top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=natnael2-lang&theme=tokyo-night&hide_border=true&bg_color=00000000&color=06B6D4&line=06B6D4&point=FFFFFF&area=true" alt="activity graph" width="98%" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 **Let's build something.**
 
 <a href="https://www.linkedin.com/in/natnael-messay-530177235">LinkedIn</a> ·
