@@ -91,9 +91,8 @@ Exploring GIS-based systems for spatial analysis, infrastructure mapping, field 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn]
-* 🌐 Portfolio: [Your Portfolio]
-* 📧 Email: [Your Email]
+* 💼 LinkedIn: https://www.linkedin.com/in/natnael-messay-530177235
+* 📧 Email: natnaelmessay70@gmail.com
 
 ---
 
