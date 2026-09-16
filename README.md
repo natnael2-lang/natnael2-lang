@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Addis_Ababa-Ethiopia-078930?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=natnael2-lang&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -104,8 +104,8 @@ A hospital platform covering appointments, pharmacy, laboratory, reception and d
 
 `React` `Node.js` `PostgreSQL` `FastAPI` `Docker` `Qdrant` `Ollama`
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/natnael2-lang/hospital-management"><img src="https://img.shields.io/badge/Server-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/natnael2-lang/hospitalManagementClient"><img src="https://img.shields.io/badge/Client-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +115,7 @@ A computer-vision assistant that interprets what the camera sees and responds in
 
 `Python` `Computer Vision` `LLM`
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/natnael2-lang/smart_vision_assistant"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -127,7 +127,7 @@ Spatial analysis, infrastructure mapping, and field data collection — explorin
 
 `GIS` `Python` `PostgreSQL`
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/natnael2-lang?tab=repositories"><img src="https://img.shields.io/badge/In_progress-8B5CF6?style=flat-square" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -145,10 +145,10 @@ REST APIs · Authentication & RBAC · Payment systems · Microservices · RAG ap
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&icon_color=06B6D4&title_color=06B6D4" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=06B6D4&langs_count=8" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=natnael2-lang&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&icon_color=06B6D4&title_color=06B6D4" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael2-lang&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=06B6D4&langs_count=8" alt="top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000&color=06B6D4&line=06B6D4&point=FFFFFF&area=true" alt="activity graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=natnael2-lang&theme=tokyo-night&hide_border=true&bg_color=00000000&color=06B6D4&line=06B6D4&point=FFFFFF&area=true" alt="activity graph" width="98%" />
 
 </div>
 
